@@ -9,7 +9,7 @@
         {"name": "Marek Štípek", "email": "marek.stipek@vanio.cz"}
     ],
     "require": {
-        "php": "^7.2",
+        "php": "=>7.2",
         "jms/serializer-bundle": "^2.3.1",
         "symfony/framework-bundle": "^3.3.16 || ^4.0 || ^5.0 || ^6.0",
         "symfony/security-bundle": "^3.3.16 || ^4.0 || ^5.0 || ^6.0",
